@@ -1,0 +1,21 @@
+commit f78472b7d524a6bc0b5659e12a1cbb2eb7ed24db
+Author: fjoksch <fjoksch@hotmail.com>
+Date:   Thu Mar 16 11:01:38 2017 +0100
+
+    smiley
+
+ src/felician/Test3333.java | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit a6741d877e8c005aed196902f048fc24e857dee0
+Author: fjoksch <fjoksch@hotmail.com>
+Date:   Thu Mar 16 10:49:24 2017 +0100
+
+    1. commit
+
+ .classpath                           |  6 ++++++
+ .gitignore                           |  1 +
+ .project                             | 17 +++++++++++++++++
+ .settings/org.eclipse.jdt.core.prefs | 11 +++++++++++
+ src/felician/Test3333.java           |  9 +++++++++
+ 5 files changed, 44 insertions(+)
